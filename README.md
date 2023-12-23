@@ -1,4 +1,4 @@
-# FAMNAB
+# Foreign Affairs Manual NABber (FAMNAB)
 A simple python scraper to grab the text from the Foreign Affairs Manual and Handbook for offline use.
 
 **Prerequisites**
