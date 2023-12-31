@@ -13,6 +13,13 @@ Selenium:
 
 https://www.selenium.dev/documentation/webdriver/getting_started/
 
+PanDoc:
+
+https://github.com/jgm/pandoc/releases/latest
+
+https://github.com/jgm/pandoc/releases/download/3.1.11/pandoc-3.1.11-windows-x86_64.msi
+
+
 **Windows**
 
 >To setup the python environment(s) use the following
