@@ -1,6 +1,14 @@
 # Foreign Affairs Manual NABber (FAMNAB)
 A simple python scraper to grab the text from the Foreign Affairs Manual, Handbook, and DSSR for offline use.
 
+**Related Repositories**
+
+*Not required for functionality but worth a look*
+
+https://github.com/opieeipo/drfam
+
+https://github.com/opieeipo/Kamar-Taj
+
 **Prerequisites**
 
 If you don't already have it, get curl:
