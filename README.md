@@ -1,5 +1,5 @@
 # Foreign Affairs Manual NABber (FAMNAB)
-A simple python scraper to grab the text from the Foreign Affairs Manual and Handbook for offline use.
+A simple python scraper to grab the text from the Foreign Affairs Manual, Handbook, and DSSR for offline use.
 
 **Prerequisites**
 
@@ -20,13 +20,14 @@ https://www.selenium.dev/documentation/webdriver/getting_started/
 *pywinsetup.cmd*
 
 *command usage:*
+```
+usage: famscrape.py [-h] [--doc_dir DOC_DIR] [--famurl FAMURL] [--dssrurl DSSRURL] [-c]
 
-`usage: famscrape.py [-h] [--doc_dir DOC_DIR] [--famurl FAMURL]`
-
-`options:`
-
-`  -h, --help         show this help message and exit`
-
-`  --doc_dir DOC_DIR  Provide the name of the directory where you want to store the docs`
-
-`  --famurl FAMURL    Provide the url for the fam/fah`
+options:
+  -h, --help         show this help message and exit
+  --doc_dir DOC_DIR  Provide the name of the directory where you want to store the docs
+  --famurl FAMURL    Provide the url for the fam fah
+  --dssrurl DSSRURL  Provide the url for most recent the DSSR doc
+  -c                 flag to consolidate FAM/FAH files into FAM.txt and FAH.txt
+```
+`
